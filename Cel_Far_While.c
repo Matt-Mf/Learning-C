@@ -1,6 +1,7 @@
-#include <stdio.h>
 
-// stampa tabella Celsius-Fahrenheit 
+// Stampa tabella Celsius-Fahrenheit 
+
+#include <stdio.h>
 
 int main () {
 

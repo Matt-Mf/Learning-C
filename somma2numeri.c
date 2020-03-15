@@ -1,3 +1,6 @@
+
+// Somma di due numeri interi tramite funzione
+
 #include <stdio.h>
 
  int numero1,numero2;
